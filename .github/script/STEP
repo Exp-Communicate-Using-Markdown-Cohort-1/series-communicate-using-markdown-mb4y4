@@ -3,3 +3,19 @@ Add detailed README with introduction, technologies, projects, and contact info
 
 #Second Step
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#Third Step
+## Code Example
+
+Here's a simple example of a Python function that adds two numbers:
+
+```python
+def add_numbers(a, b):
+    """
+    This function returns the sum of two numbers.
+    """
+    return a + b
+
+# Example usage:
+result = add_numbers(5, 3)
+print("The sum is:", result)
