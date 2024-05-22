@@ -19,3 +19,10 @@ def add_numbers(a, b):
 # Example usage:
 result = add_numbers(5, 3)
 print("The sum is:", result)
+
+#Forth Step
+## Task List
+
+- [ ] Complete project documentation
+- [ ] Review pull requests
+- [ ] Refactor the authentication module
